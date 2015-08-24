@@ -1,0 +1,104 @@
+.. Copyright 2015 Open Platform for NFV Project, Inc. and its contributors
+
+.. Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+.. http://www.apache.org/licenses/LICENSE-2.0
+
+.. Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
+.. -----------------------------------------------------------------------
+
+.. Document to list the requirements for a common user experience
+   created by the different installers.
+   Please add a bullet each for every requirement added.
+
+===============
+UX requirements
+===============
+
+Release: OPNFV Brahmaputra
+
+Requirements for a common user-experience created by the deployment tools.
+
+
+
+High availability requirements
+------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira story are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+
+Network setup and configuration related requirements
+----------------------------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira story are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+
+Versioning requirements
+-----------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+System definition and system configuration requirements
+-------------------------------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+Requirements pertaining to the qualities of the deployment process
+------------------------------------------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+Security related requirements
+-----------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+Testing related requirements
+----------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+Installation method related requirements
+----------------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
+Documentation related requirements
+----------------------------------
+.. Please add the Jira story reference to each requirement.
+   Note that the below listed "GENESIS-3" Jira stories are place holders
+   and are to be changed for the actual Jira reference.
+
+* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
