@@ -49,6 +49,8 @@ release
 
 SDN Controller:
 ===============
+`GENESIS-6 <https://jira.opnfv.org/browse/GENESIS-6>`_: Installers support
+OpenDaylight Lithium Release
 
 VM Controller:
 ==============
