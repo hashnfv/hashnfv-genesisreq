@@ -62,6 +62,7 @@ System definition and system configuration requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-18 <https://jira.opnfv.org/browse/GENESIS-18>`_: Allow assignment of different roles to servers, so that hardware and software can be configured according to the role.
 
 Requirements pertaining to the qualities of the deployment process
 ------------------------------------------------------------------
