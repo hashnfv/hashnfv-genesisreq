@@ -53,6 +53,7 @@ Versioning requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-12 <https://jira.opnfv.org/browse/GENESIS-12>`_: Installers should track/control all versions of all components pulled from external sources (user should be able to identify the versions and origins of all software components deployed).
 
 System definition and system configuration requirements
 -------------------------------------------------------
