@@ -35,7 +35,7 @@ High availability requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
-
+* `Jira GENESIS-9 <https://jira.opnfv.org/browse/GENESIS-9>`_: The installer shall support the deployment of OpenStack with High-Availability (for those components that support it in Liberty) on 3 or more control nodes. Functest tests should be able to verify that the HA is enabled and functional.
 
 Network setup and configuration related requirements
 ----------------------------------------------------
