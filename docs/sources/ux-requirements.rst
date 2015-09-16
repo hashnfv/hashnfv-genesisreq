@@ -44,6 +44,8 @@ Network setup and configuration related requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-20 <https://jira.opnfv.org/browse/GENESIS-20>`_: Automatically populate discovered servers into install tool (reduce user-intervention to a minimum).
+
 
 
 Versioning requirements
