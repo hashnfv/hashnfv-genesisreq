@@ -41,23 +41,14 @@ Software components
 
 :Minimum base OS distribution supported:
 
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: Centos ...tbd...
-
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: Ubuntu ...tbd...
-
+  `Jira GENESIS-4 <https://jira.opnfv.org/browse/GENESIS-4>`_: Installers support either Centos 7 or
+Ubuntu 14.04 as target system base OS
 
 :SDN Controller:
 
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: OpenDaylight ...tbd...
 
 :VM Controller:
 
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: OpenStack ...tbd...
-
 :Hypervisor:
 
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: KVM version ...tbd...
-
 :Virtual forwarder:
-
-  `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: Openvswitch version ...tbd...
