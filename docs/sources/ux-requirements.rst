@@ -51,8 +51,11 @@ Network setup and configuration related requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+
 * `Jira GENESIS-20 <https://jira.opnfv.org/browse/GENESIS-20>`_: Automatically populate discovered servers into install tool (reduce user-intervention to a minimum).
 
+* `Jira GENESIS-28 <https://jira.opnfv.org/browse/GENESIS-28>`_: Installers should support a common configuration file (e.g. kickstart file) per platform/role, so that the installed OS can be customized for hardware and role.
+new requirement...
 
 
 Versioning requirements
