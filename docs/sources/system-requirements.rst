@@ -32,23 +32,29 @@ Hardware components
    Note that the below listed "GENESIS-1" Jira story are place holders
    and are to be changed for the actual Jira reference.
 
-* `Jira GENESIS-1 <https://jira.opnfv.org/browse/GENESIS-1>`_: *new requirement*.
-
 
 Software components
 -------------------
 .. Please add the Jira story to each requirement as reference.
 
-:Minimum base OS distribution supported:
-
-  `Jira GENESIS-4 <https://jira.opnfv.org/browse/GENESIS-4>`_: Installers support either Centos 7 or
+Minimum base Operating System distribution supported:
+=====================================================
+`GENESIS-4 <https://jira.opnfv.org/browse/GENESIS-4>`_: Installers support either Centos 7 or
 Ubuntu 14.04 as target system base OS
 
-:SDN Controller:
+Minimum base OpenStack distribution supported:
+==============================================
+`GENESIS-7 <https://jira.opnfv.org/browse/GENESIS-7>`_: Installers must support OpenStack Liberty
+release
 
+SDN Controller:
+===============
 
-:VM Controller:
+VM Controller:
+==============
 
-:Hypervisor:
+Hypervisor:
+===========
 
-:Virtual forwarder:
+Virtual forwarder:
+==================
