@@ -49,8 +49,12 @@ release
 
 SDN Controller:
 ===============
+
 `GENESIS-6 <https://jira.opnfv.org/browse/GENESIS-6>`_: Installers support
 OpenDaylight Lithium Release
+
+`GENESIS-49 <https://jira.opnfv.org/browse/GENESIS-49>`_: Installers support for ONOSFW
+
 
 VM Controller:
 ==============
