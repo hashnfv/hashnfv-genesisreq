@@ -9,11 +9,11 @@ Jira Project Prefix: [GENESIS]
 mailing list tag [genesis]
 Committers:
 Tim Rozet (trozet@redhat.com)
-Arnaud Morin (arnaud1.morin@orange.com)
 Jonas Bjurel (jonas.bjurel@ericsson.com)
 Weidong Shao (weidong.shao@huawei.com)
 Artur Tyloch (artur.tyloch@canonical.com)
 Frank Brockners (fbrockne@cisco.com)
 
 Link to TSC approval: http://meetbot.opnfv.org/meetings/opnfv-meeting/2015/opnfv-meeting.2015-08-11-14.00.html
-Link to approval of additional submitters: n/a 
+Link to approval/removal of committers:
+* Removal of Arnaud Morin: http://meetbot.opnfv.org/meetings/opnfv-meeting/2015/opnfv-meeting.2015-10-20-13.56.html
