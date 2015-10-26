@@ -35,7 +35,10 @@ High availability requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
-* `Jira GENESIS-9 <https://jira.opnfv.org/browse/GENESIS-9>`_: The installer shall support the deployment of OpenStack with High-Availability (for those components that support it in Liberty) on 3 or more control nodes. Functest tests should be able to verify that the HA is enabled and functional.
+* `Jira GENESIS-9 <https://jira.opnfv.org/browse/GENESIS-9>`_: The installer shall support the
+  deployment of OpenStack with High-Availability (for those components that support it in
+  Liberty) on 3 or more control nodes. Functest tests should be able to verify that the HA is
+  enabled and functional.
 
 * `Jira GENESIS-71 <https://jira.opnfv.org/browse/GENESIS-71>`_: new requirement
   Hitless hardware upgrade: Increase size of a deployment in terms of compute
@@ -65,7 +68,9 @@ Versioning requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
-* `Jira GENESIS-12 <https://jira.opnfv.org/browse/GENESIS-12>`_: Installers should track/control all versions of all components pulled from external sources (user should be able to identify the versions and origins of all software components deployed).
+* `Jira GENESIS-12 <https://jira.opnfv.org/browse/GENESIS-12>`_: Installers should track/control
+  all versions of all components pulled from external sources (user should be able to identify
+  the versions and origins of all software components deployed).
 
 System definition and system configuration requirements
 -------------------------------------------------------
@@ -74,9 +79,10 @@ System definition and system configuration requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
-
-* `Jira GENESIS-18 <https://jira.opnfv.org/browse/GENESIS-18>`_: Allow assignment of different roles to servers, so that hardware and software can be configured according to the role.
-
+* `Jira GENESIS-16 <https://jira.opnfv.org/browse/GENESIS-16>`_: Common ability to input site,
+  topology, and server information.
+* `Jira GENESIS-18 <https://jira.opnfv.org/browse/GENESIS-18>`_: Allow assignment of different roles
+  to servers, so that hardware and software can be configured according to the role.
 * `Jira GENESIS-19 <https://jira.opnfv.org/browse/GENESIS-19>`_: 
   Deployment tool to provide for automatic device discovery.
 
