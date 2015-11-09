@@ -121,7 +121,11 @@ Installation method related requirements
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
 
+
 * `Jira GENESIS-38 <https://jira.opnfv.org/browse/GENESIS-38>`_: Installers should supply a script or set of scripts ("deploy.sh") to automatically install the jumphost (from there, the entire OPNFV system is automatically installed).
+
+* `Jira GENESIS-42 <https://jira.opnfv.org/browse/GENESIS-42>`: Requirement: Support deployment offline. Jump host may have Internet access, but the installers should support offline installation on target hosts during the deployment phase. (either manual or automatic)
+
 
 Documentation related requirements
 ----------------------------------
