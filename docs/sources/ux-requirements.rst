@@ -49,17 +49,15 @@ High availability requirements
 
 Network setup and configuration related requirements
 ----------------------------------------------------
-.. Please add the Jira story reference to each requirement.
-   Note that the below listed "GENESIS-3" Jira story are place holders
-   and are to be changed for the actual Jira reference.
+* `Jira GENESIS-20 <https://jira.opnfv.org/browse/GENESIS-20>`_: Automatically populate
+  discovered servers into install tool (reduce user-intervention to a minimum).
 
-* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-28 <https://jira.opnfv.org/browse/GENESIS-28>`_: Installers should support
+  a common configuration file (e.g. kickstart file) per platform/role, so that the installed
+  OS can be customized for hardware and role.
 
-* `Jira GENESIS-20 <https://jira.opnfv.org/browse/GENESIS-20>`_: Automatically populate discovered servers into install tool (reduce user-intervention to a minimum).
-
-* `Jira GENESIS-28 <https://jira.opnfv.org/browse/GENESIS-28>`_: Installers should support a common configuration file (e.g. kickstart file) per platform/role, so that the installed OS can be customized for hardware and role.
-new requirement...
-
+* `Jira GENESIS-43 <https://jira.opnfv.org/browse/GENESIS-43>`_: Neutron DHCP servers should
+  be configured in HA per tenant
 
 Versioning requirements
 -----------------------
