@@ -85,7 +85,9 @@ System definition and system configuration requirements
   to servers, so that hardware and software can be configured according to the role.
 * `Jira GENESIS-19 <https://jira.opnfv.org/browse/GENESIS-19>`_: 
   Deployment tool to provide for automatic device discovery.
-
+* `Jira GENESIS-25 <https://jira.opnfv.org/browse/GENESIS-25`_:
+  Installers should configure NTP servers on the servers for clock
+  synchronization.
 
 Requirements pertaining to the qualities of the deployment process
 ------------------------------------------------------------------
