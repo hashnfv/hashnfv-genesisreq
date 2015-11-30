@@ -59,6 +59,9 @@ Network setup and configuration related requirements
 * `Jira GENESIS-43 <https://jira.opnfv.org/browse/GENESIS-43>`_: Neutron DHCP servers should
   be configured in HA per tenant
 
+* `Jira GENESIS-62 <https://jira.opnfv.org/browse/GENESIS-62>`_: Supported Logical Networks for
+  Target System
+
 * `Jira GENESIS-72 <https://jira.opnfv.org/browse/GENESIS-72`_: Support L3-neutron agent
   as an option for L3
 
