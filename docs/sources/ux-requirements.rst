@@ -113,11 +113,8 @@ Testing related requirements
 
 Installation method related requirements
 ----------------------------------------
-.. Please add the Jira story reference to each requirement.
-   Note that the below listed "GENESIS-3" Jira stories are place holders
-   and are to be changed for the actual Jira reference.
-
-* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-39 <https://jira.opnfv.org/browse/GENESIS-39>`_: Ability to install with upstream
+  artifacts.
 
 Documentation related requirements
 ----------------------------------
