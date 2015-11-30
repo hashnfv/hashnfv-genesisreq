@@ -79,6 +79,8 @@ System definition and system configuration requirements
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
 * `Jira GENESIS-16 <https://jira.opnfv.org/browse/GENESIS-16>`_: Common ability to input site,
   topology, and server information.
+* `Jira GENESIS-17 <https://jira.opnfv.org/browse/GENESIS-17>`_: User-configurable parameters
+  available via config files.
 * `Jira GENESIS-18 <https://jira.opnfv.org/browse/GENESIS-18>`_: Allow assignment of different roles
   to servers, so that hardware and software can be configured according to the role.
 * `Jira GENESIS-19 <https://jira.opnfv.org/browse/GENESIS-19>`_: 
