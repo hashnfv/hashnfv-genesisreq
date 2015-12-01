@@ -62,6 +62,9 @@ Network setup and configuration related requirements
 * `Jira GENESIS-72 <https://jira.opnfv.org/browse/GENESIS-72`_: Support L3-neutron agent
   as an option for L3
 
+* `Jira GENESIS-69 <https://jira.opnfv.org/browse/GENESIS-69`_: Provide isolated compute node 
+  resources for CEPH OSD
+
 Versioning requirements
 -----------------------
 .. Please add the Jira story reference to each requirement.
