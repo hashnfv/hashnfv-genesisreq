@@ -100,6 +100,7 @@ System definition and system configuration requirements
 * `Jira GENESIS-25 <https://jira.opnfv.org/browse/GENESIS-25`_:
   Installers should configure NTP servers on the servers for clock
   synchronization.
+* `Jira GENESIS-40 <https://jira.opnfv.org/browse/GENESIS-40>`_: Hardware replacement
 
 Requirements pertaining to the qualities of the deployment process
 ------------------------------------------------------------------
