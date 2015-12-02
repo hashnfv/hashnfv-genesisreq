@@ -121,6 +121,8 @@ Installation method related requirements
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
 
+* `Jira GENESIS-38 <https://jira.opnfv.org/browse/GENESIS-38>`_: Installers should supply a script or set of scripts ("deploy.sh") to automatically install the jumphost (from there, the entire OPNFV system is automatically installed).
+
 Documentation related requirements
 ----------------------------------
 .. Please add the Jira story reference to each requirement.
