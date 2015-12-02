@@ -102,8 +102,8 @@ Security related requirements
    and are to be changed for the actual Jira reference.
 
 * `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-23 <https://jira.opnfv.org/browse/GENESIS-23>`_: Enable Mandatory Access Control by default. Installer should enable MAC either using SElinux or AppArmour.
 * `Jira GENESIS-24 <https://jira.opnfv.org/browse/GENESIS-24>`_: Installers should install ssh keys on servers so that key-based login can be used for administration
-
 
 Testing related requirements
 ----------------------------
