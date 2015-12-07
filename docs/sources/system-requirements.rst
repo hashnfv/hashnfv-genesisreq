@@ -63,6 +63,7 @@ Hypervisor:
 ===========
 `GENESIS-8 <https://jira.opnfv.org/browse/GENESIS-8>`_: KVM Support
 
+`GENESIS-50 <https://jira.opnfv.org/browse/GENESIS-50>`_: nfv-kvm installation requirement
 Virtual forwarder:
 ==================
 `GENESIS-46 <https://jira.opnfv.org/browse/GENESIS-46>`_: SFC support
