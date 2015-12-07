@@ -124,11 +124,8 @@ Testing related requirements
 
 Installation method related requirements
 ----------------------------------------
-.. Please add the Jira story reference to each requirement.
-   Note that the below listed "GENESIS-3" Jira stories are place holders
-   and are to be changed for the actual Jira reference.
-
-* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-39 <https://jira.opnfv.org/browse/GENESIS-39>`_: Ability to install with upstream
+  artifacts.
 
 * `Jira GENESIS-38 <https://jira.opnfv.org/browse/GENESIS-38>`_: Installers should supply a script or set of scripts ("deploy.sh") to automatically install the jumphost (from there, the entire OPNFV system is automatically installed).
 
