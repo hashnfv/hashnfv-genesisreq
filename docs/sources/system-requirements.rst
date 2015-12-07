@@ -66,6 +66,7 @@ Hypervisor:
 `GENESIS-50 <https://jira.opnfv.org/browse/GENESIS-50>`_: nfv-kvm installation requirement
 Virtual forwarder:
 ==================
+
 `GENESIS-46 <https://jira.opnfv.org/browse/GENESIS-46>`_: SFC support
  The SFC project needs a version of OVS that supports Network Service Headers '
  (NSH). The required end-system state for the B-release will be an official
@@ -77,3 +78,13 @@ Virtual forwarder:
  obtained as follows:
  git clone https://github.com/priteshk/ovs.git
  git checkout nsh-v8
+
+
+Installer Documentation:
+========================
+
+`GENESIS-34 <https://jira.opnfv.org/browse/GENESIS-34`_: Installers should provide a user guide
+
+`GENESIS-35 <https://jira.opnfv.org/browse/GENESIS-35`_: Installers should provide release notes for an OPNFV release as part of the documentation provided
+
+
