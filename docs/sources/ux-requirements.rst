@@ -100,11 +100,9 @@ System definition and system configuration requirements
 
 Requirements pertaining to the qualities of the deployment process
 ------------------------------------------------------------------
-.. Please add the Jira story reference to each requirement.
-   Note that the below listed "GENESIS-3" Jira stories are place holders
-   and are to be changed for the actual Jira reference.
 
-* `Jira GENESIS-3 <https://jira.opnfv.org/browse/GENESIS-3>`_: new requirement...
+* `Jira GENESIS-31 <https://jira.opnfv.org/browse/GENESIS-31>`_: Installers to be agnostic to
+  type of hard drives used
 
 Security related requirements
 -----------------------------
