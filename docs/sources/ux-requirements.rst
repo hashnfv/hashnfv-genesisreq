@@ -101,6 +101,17 @@ System definition and system configuration requirements
 Requirements pertaining to the qualities of the deployment process
 ------------------------------------------------------------------
 
+* `Jira GENESIS-74 <https://jira.opnfv.org/browse/GENESIS-74>`_:
+  Installers which create a build for Brahmaputra, should create
+  the build as an "all-in-one" build. The the build process of
+  the installer creates a single entity (e.g. ISO) - which has
+  all the artifacts considered and required by all the projects
+  for Brahmaputra packaged in. Or in other terms and as an example:
+  If there are 4 different versions of OVS - all these 4 versions
+  would be contained in the "all in one build".
+  Note: This requirement only applies to installers which support
+  a "build" phase (i.e. create a bootable image, like an iso-image
+  from the different artifacts required).
 * `Jira GENESIS-31 <https://jira.opnfv.org/browse/GENESIS-31>`_: Installers to be agnostic to
   type of hard drives used
 
