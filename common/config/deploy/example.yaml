@@ -1,0 +1,35 @@
+---
+global_params:
+  ha_enabled: true
+  network_isolation_settings: network/network-environment-example.yaml
+  openstack_version: liberty
+
+deploy_options:
+  sdn_controller:
+    name: opendaylight
+    version: lithium
+    enable_l3: false #only applies to supported controllers
+  tacker: false
+  congress: false
+  sfc: false
+  openvswitch_version: dpdk
+  ceph: true
+
+installer_options: #installer specific flags
+  my_specific_apex_param: true
+
+roles:  #attach roles to each controller/compute
+  controller1:
+      - opendaylight  #example, when ODL supports HA this could be attached to all 3 controllers
+      - ceph
+      - aodh
+  controller2:
+      - ceph
+      - aodh
+  controller3:
+      - ceph
+      - aodh
+  compute1:
+      - mongodb
+  compute2:
+      - mongodb
