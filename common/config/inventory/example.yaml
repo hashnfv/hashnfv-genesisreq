@@ -1,0 +1,13 @@
+nodes:
+   - name: node3-control
+     tags: control      #optional param, other valid value "compute"
+     arch: "x86_64"
+     mac_address: "10:23:45:67:89:AC" #pxe boot interface mac
+     cpus: 2            #required only for virtual deployments
+     memory: 2048       #required only for virtual deployments
+     disk: 40           #required only for virtual deployments
+     power:
+       type: ipmi
+       address: 10.4.7.3
+       user: root
+       pass: root
