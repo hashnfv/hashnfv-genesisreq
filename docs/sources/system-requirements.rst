@@ -42,6 +42,11 @@ Minimum base Operating System distribution supported:
 `GENESIS-4 <https://jira.opnfv.org/browse/GENESIS-4>`_: Installers support either Centos 7 or
 Ubuntu 14.04 as target system base OS
 
+Components/features installed for OpenStack:
+============================================
+
+`GENESIS-53 <https://jira.opnfv.org/browse/GENESIS-53>`_: OpenStack Heat should be installed.
+
 Minimum base OpenStack distribution supported:
 ==============================================
 `GENESIS-7 <https://jira.opnfv.org/browse/GENESIS-7>`_: Installers must support OpenStack Liberty
