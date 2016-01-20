@@ -72,18 +72,6 @@ Hypervisor:
 Virtual forwarder:
 ==================
 
-`GENESIS-46 <https://jira.opnfv.org/browse/GENESIS-46>`_: SFC support
- The SFC project needs a version of OVS that supports Network Service Headers '
- (NSH). The required end-system state for the B-release will be an official
- OVS patch that Intel is preparing that will provide full OVS 2.4 support.
- This official OVS patch is not available yet. Until this official patch is
- available, there is a patch available in a private branch that we will have
- to use during the life cycle of the B release. This private OVS branch does
- not support all of the OVS 2.4 features. The private OVS branch can be
- obtained as follows:
- git clone https://github.com/priteshk/ovs.git
- git checkout nsh-v8
-
 
 Installer Documentation:
 ========================
