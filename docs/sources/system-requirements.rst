@@ -54,7 +54,7 @@ SDN Controller:
 ===============
 
 * `GENESIS-6 <https://jira.opnfv.org/browse/GENESIS-6>`_:
-  Installers should support OpenDaylight Lithium Release.
+  Installers should support OpenDaylight Beryllium Release.
 
 * `GENESIS-49 <https://jira.opnfv.org/browse/GENESIS-49>`_:
   Installers should support ONOSFW.
