@@ -17,13 +17,13 @@ Target system requirements
 +==============================================+============+===========+============+============+
 | GENESIS-4  - Centos7 or Ubuntu 14.04         | yes        | yes       | yes        | yes        |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-53 - OpenStack Heat                  |            |           | yes        |            |
+| GENESIS-53 - OpenStack Heat                  | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-6  - OpenDaylight Beryllium          |            |           | yes        |            |
+| GENESIS-6  - OpenDaylight Beryllium          | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-49 - ONOSFW                          |            |           | yes        |            |
+| GENESIS-49 - ONOSFW                          | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-8  - KVM Hypervisor                  |            |           | yes        |            |
+| GENESIS-8  - KVM Hypervisor                  | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
 
 
@@ -33,56 +33,56 @@ User experience requirements
 +----------------------------------------------+------------+-----------+------------+------------+
 | Feature                                      | Apex       | Compass   | Fuel       | JOID/Juju  |
 +==============================================+============+===========+============+============+
-| GENESIS-9  - OpenStack HA                    |            |           | yes        |            |
+| GENESIS-9  - OpenStack HA                    | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-71 - Hitless hardware upgrade        |            |           | yes        |            |
+| GENESIS-71 - Hitless hardware upgrade        | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-20 - Server discovery integrated     |            |           | yes        |            |
+| GENESIS-20 - Server discovery integrated     | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-28 - Common configuration file       |            |           | yes        |            |
+| GENESIS-28 - Common configuration file       | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-43 - DHCP server HA per tenant       |            |           | yes        |            |
+| GENESIS-43 - DHCP server HA per tenant       | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-44 - SDN Controller L3               |            |           | yes        |            |
+| GENESIS-44 - SDN Controller L3               | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-61 - L1/2 networking config          |            |           | yes        |            |
+| GENESIS-61 - L1/2 networking config          | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-62 - Logical networks                |            |           | yes        |            |
+| GENESIS-62 - Logical networks                | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-72 - L3-neutron agent                |            |           | yes        |            |
+| GENESIS-72 - L3-neutron agent                | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-69 - Isolated CEPH OSD               |            |           | yes        |            |
+| GENESIS-69 - Isolated CEPH OSD               | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-12 - Version control for components  |            |           | yes        |            |
+| GENESIS-12 - Version control for components  | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-16 - Common inventory config         |            |           | yes        |            |
+| GENESIS-16 - Common inventory config         | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-17 - User-facing config files        |            |           | yes        |            |
+| GENESIS-17 - User-facing config files        | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-18 - Server roles                    |            |           | yes        |            |
+| GENESIS-18 - Server roles                    | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-19 - Automatic device discovery      |            |           | yes        |            |
+| GENESIS-19 - Automatic device discovery      | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-25 - NTP config                      |            |           | yes        |            |
+| GENESIS-25 - NTP config                      | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-40 - Hardware replacement support    |            |           | yes        |            |
+| GENESIS-40 - Hardware replacement support    | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-74 - "all-in-one" build              |            |           | yes        |            |
+| GENESIS-74 - "all-in-one" build              | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-31 - Agnostic to type of hard drive  |            |           | yes        |            |
+| GENESIS-31 - Agnostic to type of hard drive  | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-23 - Mandatory Access Control        |            |           | yes        |            |
+| GENESIS-23 - Mandatory Access Control        | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-24 - Install ssh keys                |            |           | yes        |            |
+| GENESIS-24 - Install ssh keys                | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-39 - Use artifacts from upstream     |            |           | yes        |            |
+| GENESIS-39 - Use artifacts from upstream     | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-38 - Deploy script for jumphost      |            |           | yes        |            |
+| GENESIS-38 - Deploy script for jumphost      | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-42 - Offline deployment              |            |           | yes        |            |
+| GENESIS-42 - Offline deployment              | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-34 - User guide                      |            |           | yes        |            |
+| GENESIS-34 - User guide                      | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
-| GENESIS-35 - Release notes                   |            |           | yes        |            |
+| GENESIS-35 - Release notes                   | yes        |           | yes        |            |
 +----------------------------------------------+------------+-----------+------------+------------+
 
