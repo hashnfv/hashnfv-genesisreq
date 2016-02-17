@@ -1,4 +1,9 @@
-===============================
+.. Copyright 2015 Open Platform for NFV Project, Inc. and its contributors
+
+.. This work is licensed under the
+.. Creative Commons Attribution 4.0 International License.
+.. http://creativecommons.org/licenses/by/4.0
+
 Deployment tools support matrix
 ===============================
 
