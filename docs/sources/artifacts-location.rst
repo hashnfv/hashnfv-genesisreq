@@ -19,8 +19,6 @@ VM manager components
 
 * OpenStack::
   location: `<http://docs.openstack.org/releases/releases/liberty.html>`_
-  release: Liberty
-
   joid_location: cloud-archive:liberty
   release: Liberty
 
@@ -99,3 +97,4 @@ JOID components
       branch: "lp:~wuwenbin2/onosfw/onos-controller"
       branch: "lp:~wuwenbin2/onosfw/neutron-api-onos"
       branch: "lp:~wuwenbin2/onosfw/openvswitch-onos"
+
