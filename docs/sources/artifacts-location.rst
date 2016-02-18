@@ -20,7 +20,7 @@ VM manager components
 * OpenStack::
   location: `<http://docs.openstack.org/releases/releases/liberty.html>`_
   release: Liberty
-  
+
   joid_location: cloud-archive:liberty
   release: Liberty
 
@@ -28,8 +28,8 @@ Network controller components
 =============================
 
 * OpenDaylight Controller::
-  location: `https://nexus.opendaylight.org/content/groups/public/org/opendaylight/integration/distribution-karaf/0.3.3-Lithium-SR3/distribution-karaf-0.3.3-Lithium-SR3.tar.gz`
-  release: Lithium SR3
+  location: `https://nexus.opendaylight.org/content/repositories/staging/org/opendaylight/integration/distribution-karaf/0.4.0-Beryllium-RC2/distribution-karaf-0.4.0-Beryllium-RC2.tar.gz'
+  release: Beryllium RC2
 
 * OpenDaylight SFC::
   location: `<https://www.dropbox.com/s/6w76eo7loltvvb5/openstack.net-virt-sfc-karaf-1.2.1-SNAPSHOT.zip>`_
