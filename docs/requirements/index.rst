@@ -11,4 +11,4 @@ OPNFV deployment tools common requirements
    ./userexperience.rst
    ./system.rst
    ./component-support.rst
-
+   ./artifacts-location.rst

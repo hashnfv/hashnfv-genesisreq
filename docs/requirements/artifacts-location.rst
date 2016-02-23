@@ -18,6 +18,7 @@ VM manager components
 =====================
 
 * OpenStack::
+
   location: `<http://docs.openstack.org/releases/releases/liberty.html>`_
   joid_location: cloud-archive:liberty
   release: Liberty
@@ -26,13 +27,16 @@ Network controller components
 =============================
 
 * OpenDaylight Controller::
+
   location: `https://nexus.opendaylight.org/content/repositories/staging/org/opendaylight/integration/distribution-karaf/0.4.0-Beryllium-RC2/distribution-karaf-0.4.0-Beryllium-RC2.tar.gz'
   release: Beryllium RC2
 
 * OpenDaylight SFC::
+
   location: `<https://www.dropbox.com/s/6w76eo7loltvvb5/openstack.net-virt-sfc-karaf-1.2.1-SNAPSHOT.zip>`_
 
 * ONOS Controller::
+
   location: `<http://downloads.onosproject.org/nightly/onos-1.4.0-rc2.tar.gz>`_
   release: Emu 1.4.0-rc2
 
@@ -40,10 +44,12 @@ vSwitch components
 ==================
 
  * OVS NSH build::
+
   location: `<https://github.com/openvswitch/ovs.git>`_
   commit: 121daded51b9798fe3722824b27a05c16806cbd1
 
  * OVS build::
+
   joid_location: `cloud-archive:liberty`
   release: 1.4.0
 
@@ -51,14 +57,17 @@ JOID components
 ===============
 
  * MAAS::
+
   location: ppa:maas/stable
   release: 1.9.0
 
  * JUJU::
+
   location: ppa:juju/stable
   release: 1.25.3
 
  * CHARM::
+
   location: https://code.launchpad.net/~openstack-charmers
       charm: "cs:trusty/juju-gui"
       charm: "cs:trusty/ubuntu"
@@ -97,4 +106,3 @@ JOID components
       branch: "lp:~wuwenbin2/onosfw/onos-controller"
       branch: "lp:~wuwenbin2/onosfw/neutron-api-onos"
       branch: "lp:~wuwenbin2/onosfw/openvswitch-onos"
-
