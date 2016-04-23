@@ -9,6 +9,7 @@ OPNFV deployment tools common requirements
    :maxdepth: 2
 
    ./userexperience.rst
-   ./system.rst
-   ./component-support.rst
+   ./brahmaputra/system.rst
+   ./colorado/system.rst
+   ./brahmaputra/component-support.rst
    ./artifacts-location.rst
